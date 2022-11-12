@@ -8,7 +8,7 @@ I am pursuing my degree at the Global Academy Of Technology
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [tsnagaprasadts@gmail.com](mailto:tsnagaprasadts@gmail.com)
-* 🧠  I'm learning JavaScript, Tailwind CSS
+* 🧠  I'm learning JavaScript, Tailwind CSS, React JS
 
 ### Skills
 

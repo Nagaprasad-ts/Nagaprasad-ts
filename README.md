@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer Intern
 --------------------
 
-I am pursuing my degree at the Global Academy Of Technology
+I am BE in Computer Science & Engg Graduate from Global Academy Of Technology
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [tsnagaprasadts@gmail.com](mailto:tsnagaprasadts@gmail.com)
